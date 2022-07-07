@@ -42,5 +42,13 @@ ___
 так чтобы вход на удаленный сервер осуществлялся по имени сервера.<br>
 
 -	Ответ
+**Rename**
+![Rename](https://github.com/davlyatov-ts/security/blob/master/2222.png)<br>
 
-![]
+**ssh hostname**
+![ssh hostname](https://github.com/davlyatov-ts/security/blob/master/connect.png)<br>
+____
+7. Соберите дамп трафика утилитой tcpdump в формате pcap, 100 пакетов. Откройте файл pcap в Wireshark.
+
+-	Ответ
+
