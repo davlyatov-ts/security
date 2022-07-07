@@ -27,7 +27,14 @@ ___
 5. Установите на Ubuntu ssh сервер, сгенерируйте новый приватный ключ.<br> 
 Скопируйте свой публичный ключ на другой сервер. Подключитесь к серверу по SSH-ключу.<br>
 
--	Ответ
+-	Ответ<br>
+
 **ssh-keygen**
 ![ssh-keygen](https://github.com/davlyatov-ts/security/blob/master/ssh-gen.png)<br>
 
+**ssh-copy-id**
+![ssh-copy-id](https://github.com/davlyatov-ts/security/blob/master/copy.png)<br>
+
+**ssh**
+![ssh](https://github.com/davlyatov-ts/security/blob/master/ssh-conn.png)<br>
+__
