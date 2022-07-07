@@ -28,5 +28,6 @@ ___
 Скопируйте свой публичный ключ на другой сервер. Подключитесь к серверу по SSH-ключу.<br>
 
 -	Ответ
-
+**ssh-keygen**
+![ssh-keygen](https://github.com/davlyatov-ts/security/blob/master/ssh-gen.png)<br>
 
