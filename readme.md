@@ -17,4 +17,10 @@ ___
 ![Cert](https://github.com/davlyatov-ts/security/blob/master/openssl-req.png)<br>
 ![https](https://github.com/davlyatov-ts/security/blob/master/https.png)<br>
 ___
+4. Проверьте на TLS уязвимости произвольный сайт в интернете (кроме сайтов МВД, ФСБ, МинОбр, НацБанк,<br>
+ РосКосмос, РосАтом, РосНАНО и любых госкомпаний, объектов КИИ, ВПК ... и тому подобное).<br>
+
+-	Ответ
+
+
 
