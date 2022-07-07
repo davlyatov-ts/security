@@ -51,5 +51,13 @@ ___
 ____
 7. Соберите дамп трафика утилитой tcpdump в формате pcap, 100 пакетов. Откройте файл pcap в Wireshark.
 
--	Ответ
+-	Ответ<br>
+
+**tcpdump**<br>
+![tcpdump](https://github.com/davlyatov-ts/security/blob/master/dump.png)<br>
+
+**PCAP**<br>
+![PCAP](https://github.com/davlyatov-ts/security/blob/master/tcpdump.png)<br>
+___
+
 
