@@ -9,4 +9,11 @@ ___
 
 ![OTP](https://github.com/davlyatov-ts/security/blob/master/111.png)<br>
 ___
-3. 
+3. Установите apache2, сгенерируйте самоподписанный сертификат, настройте тестовый сайт для работы по HTTPS.<br>
+
+-	Ответ
+
+![install apache](https://github.com/davlyatov-ts/security/blob/master/apache2.png)<br>
+![Cert](https://github.com/davlyatov-ts/security/blob/master/openssl-req.png)<br>
+![https]()
+
